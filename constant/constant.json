@@ -1,0 +1,37 @@
+{
+    "PORT":1999,
+    "Mongodb_Connection":"mongodb://localhost:27017/ClientDB",
+    "Collection":"ClientModel",
+    "Db_Connect":"Database is connected",
+    "Db_Connection_Reconnecting":"Trying to reconnect",
+    "File_Not_Found":"File not found",
+    "Record_Add":"New Record is been added.",
+    "Invalid_Data":"Enter all require and valid Data",
+    "ArticleId_Invalid":"Cannot find by ArticleId",
+    "Delete_Record_ArticleId":"Record Deleted from database",
+    "Record_Updated":"Record is been updated",
+    "Connecting":"connecting to MongoDB...",
+    "Connection_Error":"Error in MongoDb connection:",
+    "Connection_Opened":"MongoDB connection opened!",
+    "Connection_Disconnect":"MongoDB disconnected!",
+
+    "Undefiend_ArticleId":"ArticleId is Undefiend",
+    "Undefiend_Title":"Title is Undefiend",
+    "Undefiend_Description":"Description is Undefiend",
+    "Undefiend_CoverPage":"CoverPage is Undefiend",
+    "Undefiend_AuthorFirstName":"AuthorFirstName is Undefiend",
+    "Undefiend_AuthorLastName":"AuthorLastName is Undefiend",
+    "Undefiend_AuthorEmailId":"AuthorEmailId is Undefiend",
+    "Undefiend_ArticlePublishedDate":"ArticlePublishedDate is Undefiend",
+    "Undefiend_AuthorPhoneNumber":"AuthorPhoneNumber is Undefiend",
+
+    "SwaggerUrl":"http://localhost:1999/",
+    "SwaggerApi":"/swaggerApi",
+
+    "Combine_Logs":"logger/combined.log",
+    "Error_Log":"logger/error.log",
+    "Warn_Log":"logger/warn.log",
+    "Info_Log":"logger/info.log"
+}
+
+
